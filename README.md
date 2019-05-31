@@ -1,5 +1,6 @@
 # awesome-graphical-books
 严重申明：本仓库只是为了传播图形学知识，请勿用作任何商业用途，否则后果自负！
+涉及所有资源，均来自网络。
 ## DX
 1. DX12Book.pdf
 2. DirectX 9 3D游戏程序设计入门
